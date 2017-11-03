@@ -1,0 +1,27 @@
+body{
+ .firstDiv{
+  color: lightblue;
+
+}
+.secondDiv{
+  color: lightgreen;
+}
+#singledout{
+  color: purple;
+  text-decoration: overline;
+}
+
+h3 + ul{
+  border:  4px ;
+}
+
+li a{
+  color: green;
+}
+
+li a[href="www.npr.org"]{
+  color: gold;
+  border: 5px solid silver;
+}   
+    
+}
